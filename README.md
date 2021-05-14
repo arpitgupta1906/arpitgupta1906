@@ -1,16 +1,15 @@
-### Hi there 👋
+<h2 align="Center">  Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
-<!--
-**arpitgupta1906/arpitgupta1906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am Arpit Gupta, pursuing Electrical Engineering B.Tech at Indian Institute of Technology, Jodhpur.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently strengthening my Software Developement and Competitive Programming skill.
+- 🚧 I like trying out new technologies and taking part in hackathons.
+- 📫 How to reach me:
+
+   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpit-byte/)](https://www.linkedin.com/in/arpit-gupta-46462819b/) 
+         [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gupta.25@iitj.ac.in)](mailto:gupta.25@iitj.ac.in)
+
+:pencil: [Portfolio](https://arpitgupta1906.github.io)  |  [Resume](https://arpitgupta1906.github.io/resume.pdf)
+
+
